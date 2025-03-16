@@ -1,1 +1,0 @@
-# hpml_lab3_assignment
